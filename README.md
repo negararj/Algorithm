@@ -36,13 +36,16 @@
   - Dijkstra, Bellman Ford, Floyd Warshall
   - MST (Kruskal, Prim)
   - Maximum Matching (+ Fast Matching)
+  - HLD
 - Divide & Conquer
   - Centroid Decomposition
 - Other Algorithms
   - DP Decomposition Trick
   - Binary Search Trick
   - Max Flow/Min Cut
+    
 #
+
 - Advanced Data Structures
   - Segment Tree
   - Fenwik Tree
@@ -55,4 +58,5 @@
   - Aho Corasick Algorithm
   - Z-algorithm
 #
-Comment: 
+Comment: First two sections are necessary algorithms for olympiad(in order, for first and second year students),
+and other parts are useful for ICPC prepration.
