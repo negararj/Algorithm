@@ -57,6 +57,13 @@
   - Suffix Array
   - Aho Corasick Algorithm
   - Z-algorithm
+
+#
+
+- Geography
+  - Convex Hull Trick
+  - Sweep Line Algorithm 
+
 #
 > [!NOTE]
 > First two sections are necessary algorithms for olympiad(in order, for first and second year students),
