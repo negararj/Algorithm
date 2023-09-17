@@ -58,5 +58,6 @@
   - Aho Corasick Algorithm
   - Z-algorithm
 #
-Comment: First two sections are necessary algorithms for olympiad(in order, for first and second year students),
-and other parts are useful for ICPC prepration.
+> [!NOTE]
+> First two sections are necessary algorithms for olympiad(in order, for first and second year students),
+> and other parts are useful for ICPC prepration.
