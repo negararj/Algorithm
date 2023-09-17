@@ -17,12 +17,14 @@
   - Power x^n O(log(n))
   - Eight-Queen Problem, Hanoi Tower Problem
   - Derangement Problem
+- Binary Search & Ternary Search
 - Sorting(2)
   - Merge Sort, Heap Sort, Quik Sort
 - Dynamic Programming
   - Knapsack
   - Coin Changing problem
   - LCS, SCS, LICS, LNDCS
+  - DP Bitmask
   - DP UP/Down
 - Graph Algorithms (Unweighted Graphs)
   - DFS, BFS
@@ -30,5 +32,27 @@
   - DSU
   - DAGs & Topological Sort
 - Graph Algorithms (Weighted Graphs)
+  - BFS 0/1
   - Dijkstra, Bellman Ford, Floyd Warshall
   - MST (Kruskal, Prim)
+  - Maximum Matching (+ Fast Matching)
+- Divide & Conquer
+  - Centroid Decomposition
+- Other Algorithms
+  - DP Decomposition Trick
+  - Binary Search Trick
+  - Max Flow/Min Cut
+#
+- Advanced Data Structures
+  - Segment Tree
+  - Fenwik Tree
+  - SQRT Decomposition
+  - Mo's Algorithm
+- Strings
+  - Hashing
+  - KMP
+  - Suffix Array
+  - Aho Corasick Algorithm
+  - Z-algorithm
+#
+Comment: 
