@@ -8,13 +8,27 @@
   - Stack, Queue, Deque, Linked-List
   - Heap, BST, Set, Map
 - Sorting(1)
-  - Insertion Sort
-  - Selection Sort
-  - Bubble Sort
+  - Insertion Sort, Selection Sort, Bubble Sort
 - Number Theory
   - Eratosthenes Sieve
   - Euclidean Algorithm
   - Fermat Little Theorem
 - Recursive
   - Power x^n O(log(n))
-  - 
+  - Eight-Queen Problem, Hanoi Tower Problem
+  - Derangement Problem
+- Sorting(2)
+  - Merge Sort, Heap Sort, Quik Sort
+- Dynamic Programming
+  - Knapsack
+  - Coin Changing problem
+  - LCS, SCS, LICS, LNDCS
+  - DP UP/Down
+- Graph Algorithms (Unweighted Graphs)
+  - DFS, BFS
+  - LIS & Sparce Table
+  - DSU
+  - DAGs & Topological Sort
+- Graph Algorithms (Weighted Graphs)
+  - Dijkstra, Bellman Ford, Floyd Warshall
+  - MST (Kruskal, Prim)
