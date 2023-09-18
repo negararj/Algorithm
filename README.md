@@ -13,7 +13,7 @@
   - Eratosthenes Sieve
   - Euclidean Algorithm
   - Fermat Little Theorem
-- Recursive
+- Recursion
   - Power x^n O(log(n))
   - Eight-Queen Problem, Hanoi Tower Problem
   - Derangement Problem
